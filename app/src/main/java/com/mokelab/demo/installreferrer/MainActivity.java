@@ -1,4 +1,4 @@
-package com.mokelab.installreferrerdemo;
+package com.mokelab.demo.installreferrer;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
